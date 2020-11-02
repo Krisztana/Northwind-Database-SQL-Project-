@@ -22,7 +22,6 @@ The tasks were :
     
     to upload everything into a cloud server
 
-create_tables : create tables in the database
 
 analyze_nortwind : SQL queries to answer the questions
 
