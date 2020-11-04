@@ -6,7 +6,7 @@ It was our project on the 6th week of the Bootcamp.
 
 It is a sample database that is shipped along with Microsoft Access. The data is about “Northwind Traders”, a fictional company. The database contains all sales transactions between the company and its customers as well as purchases from Northwinds suppliers.
 
-All the the csv files are available in the northwind_data folder.
+All the the csv files are available in the [northwind_data folder](https://github.com/Krisztana/Northwind-Database/tree/main/northwind_data).
 
 ### Challenge description
 
