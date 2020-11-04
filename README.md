@@ -32,6 +32,6 @@ My files:
 
 * create_tables - used to create the tables in the database
 
-* analyze_nortwind : SQL queries to answer the questions
+* analyze_nortwind - SQL queries to answer the questions
 
-* northwind_metabase : SQL queries to build the dashboard on Metabase
+* northwind_metabase - SQL queries to build the dashboard on Metabase
