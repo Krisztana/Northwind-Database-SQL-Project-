@@ -1,4 +1,4 @@
-## Northwind-Database ( SQL Project)
+## Northwind-Database
 
 It was our project on the 6th week of the Bootcamp.
 
